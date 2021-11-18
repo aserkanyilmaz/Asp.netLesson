@@ -73,7 +73,7 @@ namespace WebApi.AddControllers{
 
             return  Ok();
         }
-        [HttpDelete("{id")]
+        [HttpDelete("{id}")]
 
         public IActionResult DeleteBook(int id)
         {
