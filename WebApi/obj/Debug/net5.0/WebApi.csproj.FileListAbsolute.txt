@@ -26,3 +26,8 @@ C:\Users\Seko\Desktop\Asp.netLesson\WebApi\obj\Debug\net5.0\WebApi.dll
 C:\Users\Seko\Desktop\Asp.netLesson\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\Seko\Desktop\Asp.netLesson\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\Seko\Desktop\Asp.netLesson\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\Seko\Desktop\Asp.netLesson\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Seko\Desktop\Asp.netLesson\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Seko\Desktop\Asp.netLesson\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Seko\Desktop\Asp.netLesson\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Seko\Desktop\Asp.netLesson\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

@@ -18,21 +18,21 @@ namespace WebApi.DBOperations
 
                 context.Books.AddRange(
                     new Book{
-                Id = 1,
+                        
                 Title = "Lean Startup",
                 GenreId = 1, //PersonalGrowth
                 PageCount = 220,
                 PublishDate = new DateTime(2000,10,10) 
             },    
              new Book{
-                Id = 2,
+
                 Title = "Herland",
                 GenreId = 2, //PersonalGrowth
                 PageCount = 320,
                 PublishDate = new DateTime(2010,05,10) 
             }, 
                new Book{
-                Id = 3,
+
                 Title = "Dune",
                 GenreId = 2, //PersonalGrowth
                 PageCount = 720,
